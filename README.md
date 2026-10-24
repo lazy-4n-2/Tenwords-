@@ -4,7 +4,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B-green.svg)](https://android.com)
 [![Version](https://img.shields.io/badge/Version-v2.6%20(Build%2026)-blue.svg)](https://github.com/lazy-4n-2/Tenwords-)
-[![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](LICENSE)
+[![License]([![License: MIT](https://shields.io)](https://opensource.org))](LICENSE)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose%20%2B%20M3-4285F4.svg)](https://developer.android.com/jetpack/compose)
 [![Offline First](https://img.shields.io/badge/Storage-Room%20SQLite%20(Offline)-purple.svg)](https://developer.android.com/training/data-storage/room)
 
